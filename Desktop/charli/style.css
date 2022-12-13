@@ -1,0 +1,116 @@
+body{
+    background: #f2f3f3;
+}
+header{
+height: 250px;
+background: #c8e6f1;
+    font-family: verdana;
+    font-weight: bold;
+    text-align: center;
+    color: #f43c80;
+    
+}
+h2{
+  color: #f43c80;
+    font-family: verdana;
+    background-color: #7d9097; 
+    margin-left: 20px; 
+    padding: 5px;
+    border-radius: 20px;
+    margin-right: 200px;
+}
+ul{
+    
+    margin-left: 20px;
+    margin-bottom: 0px;
+    background-color: #7d9097;
+    color: #ffffff;
+    font-size:larger;
+    font-family: verdana;
+    padding: 25px;
+    border-radius: 20px;
+    margin-right: 200px;
+    font-style: italic;
+}
+img{
+    border-color: #f43c80;
+    border-style: solid;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 150px;
+    height: 100px;
+}
+nav{
+height: 50px;
+background: #9ae5ee;
+padding-left: 500px;
+
+}
+section{
+background: #f2f3f3;
+}
+article{
+min-height: 200px;
+background: #f3f3f2;
+}
+footer{
+height: 100px;
+background: #c8e6f1;
+}
+
+nav a{
+float: left;
+text-decoration : none;
+color: #ffffff;
+background:#9ae5ee;
+height: 36px;
+line-height: 33px; 
+padding: 0 10px; 
+font-family: 20px;
+transition: .5s; 
+font-size:larger;
+}
+nav  a:hover{ 
+background: #f43c80;
+}
+
+
+.presentation{
+    margin-top: 20px;
+    margin-left:20px;
+    margin-bottom: 25px;
+    padding: 40px;
+    border-radius: 10px;
+    border-top: #f43c80;
+    background-color: #7d9097;
+    font-size:x-large;
+    font-family:Arial, Helvetica, sans-serif;
+    width: 400px;
+    height: 300px;
+    color:#ffffff;
+}
+.citation{
+    margin-top: 20px;
+    margin-left:20px;
+    margin-bottom: 25px;
+    padding: 40px;
+    border-radius: 20px;
+    border-top: #f43c80;
+    background-color: #7d9097;
+    font-size:x-large;
+    font-family:Arial, Helvetica, sans-serif;
+    width: 700px;
+    height: 200px;
+    color:#f43c80;
+}
+footer{
+    margin-top: 40px;
+    padding-top: 20px;
+    color:#ffffff;
+    font-size: large;
+    vertical-align: middle;
+}
