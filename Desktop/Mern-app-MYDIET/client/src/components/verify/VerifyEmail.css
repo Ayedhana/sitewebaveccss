@@ -1,0 +1,32 @@
+.verif{
+    background-color: aquamarine;
+   min-height: 694px;
+    width: 100%;
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+   padding-top: 200px;
+   
+
+}
+h2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font:bold;
+}
+.noverif{
+     background-color: rgb(245, 222, 222);
+   min-height: 694px;
+    width: 100%;
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+   padding-top: 200px;
+   
+}
+.btnVerif{
+    width: 80px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}

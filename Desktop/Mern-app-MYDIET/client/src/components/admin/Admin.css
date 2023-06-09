@@ -1,0 +1,76 @@
+
+
+h2{
+  padding: 20px;
+  color:hsl(300, 100%, 25%);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: large;
+}
+.dashbord{
+  margin: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.navlink{
+   text-decoration: none;
+   color:#fff;
+   font-size: 1.3 rem;
+   font-weight: 600;
+   font-size: 18px;
+   transition: 0.3s ease-in-out;
+   padding-bottom: 50px;
+  
+   }
+   .bar{
+    height: 100px;
+    margin-left: 20px;
+   }
+   .list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   }
+   .elementList{
+   padding: 10px;
+   }
+.container{
+  padding: 20px;
+   display: flex;
+  flex-direction: column;
+  border:solid 1px;
+   width: 700px;
+  height:700px;
+  color: gray;
+  border-radius: 20px;
+}
+.menu{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border:solid 1px;
+   width: 300px;
+  height:700px;
+  background-color: #800080;
+  color: white;
+  border-radius: 20px;
+ 
+
+}
+h1{
+  color:white;
+  font-size: 25px;
+  size: 25px;
+}
+.btnBan{
+  background-color: aqua;
+  text-align: center;
+  vertical-align: middle;
+  color:black;
+  width: 70px;
+  height: 40px;
+  size: 24px;
+  border-radius: 10px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
